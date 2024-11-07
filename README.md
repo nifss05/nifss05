@@ -1,5 +1,7 @@
 # Welcome to Sm Nifal's Projects
 
+![Developer Animation](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
 ### 👋 Hi there! I'm Sm Nifal
 I am passionate about **Android Development** and enjoy building innovative apps that solve real-world problems.
 
@@ -25,8 +27,7 @@ I am passionate about **Android Development** and enjoy building innovative apps
 
 - **Programming Languages**:
   - **C**: The language that started it all for me.
-  - **java**: for Android app development.
-
+  - **java**: My primary programming language for developing robust Android applications.
 ---
 
 ## 🛠️ How to Use
@@ -36,4 +37,3 @@ To clone and run any of my projects, follow these steps:
 git clone https://github.com/SmNifal/your-repo-name.git
 cd your-repo-name
 # Follow any additional setup instructions in the project directory
-
