@@ -1,6 +1,7 @@
 # Welcome to Sm Nifal's Projects
 
-![Tech Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Tech Animation](https://giphy.com/embed/RbDKaczqWovIugyJmW)
+
 
 ### 👋 Hi there! I'm Sm Nifal
 I am passionate about **Android Development** and enjoy building innovative apps that solve real-world problems.
