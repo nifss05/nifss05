@@ -25,7 +25,7 @@ I am passionate about **Android Development** and enjoy building innovative apps
 
 - **Programming Languages**:
   - **C**: The language that started it all for me.
-  - **Python**: For scripting, automation, and dabbling in data science.
+  - **java**: for Android app development.
 
 ---
 
