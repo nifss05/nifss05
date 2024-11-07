@@ -1,6 +1,6 @@
 # Welcome to Sm Nifal's Projects
 
-![Developer Animation](https://giphy.com/embed/RbDKaczqWovIugyJmW)
+![Developer Animation](https://giphy.com/embed/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 ### 👋 Hi there! I'm Sm Nifal
