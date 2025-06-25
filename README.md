@@ -1,7 +1,7 @@
 # Welcome to Sm Nifal's Projects
 
-<div align="center" height=50px>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2ZtZThidjE2dmhmdnVibGFjOXl4bXFwZ3QzZWd4dGNhOG1nb3A5ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Developer Animation" />
+<div align="center" >
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2ZtZThidjE2dmhmdnVibGFjOXl4bXFwZ3QzZWd4dGNhOG1nb3A5ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Developer Animation" height="250" />
 </div>
 
 # 💫 About Me
